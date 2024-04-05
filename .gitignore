@@ -1,0 +1,7 @@
+.vscode
+.suo
+.user
+.dll
+.exe
+/obj
+/bin
